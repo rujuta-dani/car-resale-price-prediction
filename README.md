@@ -26,6 +26,9 @@ It also includes a simple web application built using Streamlit for real-time pr
 ---
 
 ##  Project Structure
+## 📂 Project Structure
+
+```
 Car-Resale-Price-Prediction/
 │
 ├── app.py
@@ -38,6 +41,7 @@ Car-Resale-Price-Prediction/
 │
 ├── notebooks/
 │   └── model_training.ipynb
+```
 
 ---
 
@@ -60,6 +64,8 @@ Enter car details like:
 - Transmission
 
  The model predicts the resale price instantly
+
+ ![image](image.png)
 
 ---
 
