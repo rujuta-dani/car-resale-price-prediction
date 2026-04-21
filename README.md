@@ -26,8 +26,6 @@ It also includes a simple web application built using Streamlit for real-time pr
 ---
 
 ##  Project Structure
-## 📂 Project Structure
-
 ```
 Car-Resale-Price-Prediction/
 │
